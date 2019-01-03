@@ -1,5 +1,10 @@
 ===================== Sleepmon =====================
 
+Requeriments
+	1. Jetson TK1
+	2. SQLite3
+	3. GCC Compiler
+
 Compile and run:
 
 	$ bash build.sh
