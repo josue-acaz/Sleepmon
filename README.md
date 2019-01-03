@@ -1,6 +1,7 @@
 ===================== Sleepmon =====================
 
-Requeriments
+Requeriments:
+
 	1. Jetson TK1
 	2. SQLite3
 	3. GCC Compiler
